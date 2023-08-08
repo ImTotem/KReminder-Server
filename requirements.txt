@@ -1,0 +1,5 @@
+firebase_admin
+requests
+inko-py
+pyfcm
+bs4
